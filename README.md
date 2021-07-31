@@ -9,3 +9,5 @@
 
 2. **Task 2 - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.**
     - The data can be found at https://bit.ly/3kXTdox or from sklearn.datasets. 
+
+3. **Task 3 - Perform Exploratory Data Analysis on Superstore data.**
