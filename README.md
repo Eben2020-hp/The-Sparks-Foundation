@@ -2,6 +2,8 @@
 
 ## Data Science & Business Analytics Tasks
 
+The documentation of these tasks are available in my Youtube channel: https://youtube.com/playlist?list=PLolZ6sQ9CYrxVtRb6NRZXV9B_Zl2IRTgB
+
 1. **Task 1 - Predict the percentage of an student based on the no. of study hours.**
     - This is a simple linear regression task as it involves just 2 variables (Hours and Scores).
     - The data can be found at http://bit.ly/w-data.
